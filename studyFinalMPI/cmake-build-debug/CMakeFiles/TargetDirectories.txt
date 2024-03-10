@@ -1,0 +1,3 @@
+D:/Users/PERSONAL/CLionProjects/studyFinalMPI/cmake-build-debug/CMakeFiles/studyFinalMPI.dir
+D:/Users/PERSONAL/CLionProjects/studyFinalMPI/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/PERSONAL/CLionProjects/studyFinalMPI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

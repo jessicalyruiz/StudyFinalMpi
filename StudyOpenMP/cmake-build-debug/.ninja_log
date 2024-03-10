@@ -1,0 +1,6 @@
+# ninja log v5
+5	840	7306824732895497	CMakeFiles/StudyOpenMP.dir/main.cpp.obj	a5d57a3f219d6cbb
+3666	4053	7306822501087999	_deps/fmt-build/libfmtd.a	a98e9a8a0e776d62
+841	1207	7306824736455450	StudyOpenMP.exe	7d8926e75f5fa2b2
+15	2422	7306822484751891	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	4a6de5ceef9cf439
+8	3665	7306822497137938	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	561f33acea3c1dfc
